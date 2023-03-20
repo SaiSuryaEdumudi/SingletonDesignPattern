@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author sowmyabejjipuram
+ * @author SaiSuryaEdumudi
  *
  */
 module SingletonDesignPattern {
